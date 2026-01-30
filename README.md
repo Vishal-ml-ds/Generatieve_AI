@@ -1,1 +1,1 @@
-# Generatieve_AI-GenAI-
+# Generatieve_AI
